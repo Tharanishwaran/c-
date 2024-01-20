@@ -8,7 +8,8 @@ int main()
 
 	ch = 'A'; 
 
-	cout << "The ASCII value of " << ch << " is " << int(ch) 
+	
+	cout << "The ASCII value of " << ch << " is " << int(ch) //convert char into int so we get ASCII value
 		<< endl; 
 
 	return 0; 
